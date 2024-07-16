@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: mjedryczka/hw8-docker-2:latest
+          tags: refurstereo/apache-test:latest
 
           # Add other relevant build parameters here
